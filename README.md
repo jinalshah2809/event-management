@@ -30,7 +30,7 @@ A robust, production-ready backend for an Event Booking System built with Node.j
 Provide an instance of MySQL database. Define connection parameters in your `.env` file (e.g., using XAMPP, Docker, or native installation).
 
 1. **Clone or Extract Project**
-   Navigate to the repository folder: `e:\off camus\event-management`.
+   Navigate to the repository folder: `event-management`.
 
 2. **Install Dependencies**
    ```bash
